@@ -5,9 +5,8 @@ Vanilla Template
 https://templatemo.com/tm-526-vanilla
 
 */
-html{
-  overflow-x: hidden;
-}
+html, body {width: auto!important; overflow-x: hidden!important} 
+
 p {
   font-size: 15px;
   line-height: 25px;
