@@ -17,6 +17,7 @@ section {
   background: #fff;
 }
 
+
 body { 
   position: relative; /* we need this for the scrollspy */ 
   font-size: 14px;
@@ -26,6 +27,8 @@ body {
 a { color: #3CC; }
 
 a:hover { color: #FF0; }
+
+
 
 /*----------
   NAV
