@@ -5,7 +5,9 @@ Vanilla Template
 https://templatemo.com/tm-526-vanilla
 
 */
-
+html{
+  overflow-x: hidden;
+}
 p {
   font-size: 15px;
   line-height: 25px;
@@ -19,6 +21,7 @@ section {
 body { 
   position: relative; /* we need this for the scrollspy */ 
   font-size: 14px;
+  overflow-x:hidden;
 }
 
 a { color: #3CC; }
