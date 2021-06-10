@@ -176,6 +176,76 @@ a:hover { color: #FF0; }
   margin-top: 15px;
 }
 
+
+.packing-info {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15vh;
+  background-image: url(../img/beds.jfif);
+  background-attachment: fixed;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center center;
+}
+
+
+.packing-info .left-text h4 {
+  font-size: 24px;
+  font-weight: 500;
+  color: #fff;
+}
+h3, .h3 {
+  text-align: center;
+}
+h4, .h4 {
+  font-size: 18px;
+}
+
+.packing-info .left-text .line-dec {
+  width: 45px;
+  height: 3px;
+  background-color: #ff7d27;
+  margin: 20px 0px 20px 0px;
+}
+
+.packing-info .left-text p {
+  color: #fff;
+}
+
+.packing-info .left-text ul {
+  padding: 0;
+  margin-top: 30px;
+  list-style: none;
+}
+
+.packing-info .left-text ul li {
+  margin: 15px 0px;
+  font-weight: 600;
+  color: #fff;
+}
+
+
+.packing-info .left-text .primary-button {
+  margin: 30px 0px;
+}
+
+.packing-info .service-item {
+  background-color: rgba(0, 0, 0, 0.808);
+  padding: 25px 30px;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+.packing-info .service-item .line-dec {
+  width: 45px;
+  height: 3px;
+  background-color: #ff7d27;
+  margin: 20px auto 15px auto;
+}
+
+
+
 .takeoff-info {
   padding-left: 15px;
   padding-right: 15px;
@@ -293,7 +363,7 @@ h4, .h4 {
 }
 
 .service-content .service-item {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.808);
   padding: 25px 30px;
   text-align: center;
   color: #fff;
